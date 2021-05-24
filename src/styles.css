@@ -1,0 +1,23 @@
+body {
+  background-color: darkgoldenrod;
+}
+
+.App {
+  font-family: sans-serif;
+}
+
+.quote-text {
+  font-style: italic;
+  text-align: center;
+  font-size: 18px;
+}
+
+.quote-generator {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  border: 5px solid white;
+  border-radius: 10px;
+}
