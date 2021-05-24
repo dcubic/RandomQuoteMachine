@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dcubic/dcubic.github.io/static/css/main.8da570d1.chunk.css",
+    "main.js": "/dcubic/dcubic.github.io/static/js/main.3c70975d.chunk.js",
+    "main.js.map": "/dcubic/dcubic.github.io/static/js/main.3c70975d.chunk.js.map",
+    "runtime-main.js": "/dcubic/dcubic.github.io/static/js/runtime-main.87cb3fed.js",
+    "runtime-main.js.map": "/dcubic/dcubic.github.io/static/js/runtime-main.87cb3fed.js.map",
+    "static/js/2.aca51ab0.chunk.js": "/dcubic/dcubic.github.io/static/js/2.aca51ab0.chunk.js",
+    "static/js/2.aca51ab0.chunk.js.map": "/dcubic/dcubic.github.io/static/js/2.aca51ab0.chunk.js.map",
+    "index.html": "/dcubic/dcubic.github.io/index.html",
+    "static/css/main.8da570d1.chunk.css.map": "/dcubic/dcubic.github.io/static/css/main.8da570d1.chunk.css.map",
+    "static/js/2.aca51ab0.chunk.js.LICENSE.txt": "/dcubic/dcubic.github.io/static/js/2.aca51ab0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87cb3fed.js",
+    "static/js/2.aca51ab0.chunk.js",
+    "static/css/main.8da570d1.chunk.css",
+    "static/js/main.3c70975d.chunk.js"
+  ]
+}
